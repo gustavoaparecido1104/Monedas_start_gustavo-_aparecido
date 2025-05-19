@@ -1,32 +1,32 @@
-Python
 
-1) Cadastro clientes
-2)Login clientes
-3)autenticação de fatores
-4)
-5)
-6)
-7)
-8)
-9)
-10)
-11)
-12)
-13)
-14)
-15)
-16)
-17)
-18)
-19)
-20)
-21)
-22)
-23)
-24)
-25)
-26)
-27)
-28)
-29)
-30)
+
+1)Cadastro de clientes (nome, CPF, email, telefone)
+2)Login com CPF e senha
+3)Validação de CPF
+4)Criptografar senhas
+5)Recuperação de senha por email
+6)Listar dados do usuário logado
+7)Atualizar dados do cliente
+8)Aceite de termos e condições no cadastro
+9)Criação de conta bancária vinculada ao cliente
+10)Consultar saldo da conta
+11)Registrar transações (entradas e saídas)
+12)Listar histórico de transações
+13)Sistema de depósito (simular depósito)
+14)Sistema de saque (simular saque)
+15)Criar sistema de transferências internas (entre usuários Monedas)
+16)Criar sistema de agendamentos de transações
+17)Gerar extrato bancário simples (em texto)
+18)Consultar dados do cartão virtual (simulado)
+19)Simular pagamento de boleto
+20)Simular recarga de celular
+21)Cadastro e listagem de reservas financeiras
+22)Simular investimentos (ex: CDBs)
+23)Exibir gráficos simples com histórico (usando lib Python tipo matplotlib)
+24)Sistema de suporte/mensagens com admin
+25)Cadastro e exibição de criptomoedas disponíveis
+26)Compra e venda simulada de criptomoedas
+27)Sistema de notificações internas
+28)Simular criação de cartão virtual (número fictício)
+29)Exportar extratos e relatórios em PDF
+30)Sistema de autenticação em duas etapas
