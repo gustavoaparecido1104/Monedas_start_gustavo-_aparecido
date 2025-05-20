@@ -16,17 +16,17 @@
 14)Sistema de saque (simular saque)
 15)Criar sistema de transferências internas (entre usuários Monedas)
 16)Criar sistema de agendamentos de transações
-17)Gerar extrato bancário simples (em texto)
-18)Consultar dados do cartão virtual (simulado)
+17)Gerar extrato bancário simples 
+18)Consultar dados do cartão virtual 
 19)Simular pagamento de boleto
 20)Simular recarga de celular
 21)Cadastro e listagem de reservas financeiras
-22)Simular investimentos (ex: CDBs)
-23)Exibir gráficos simples com histórico (usando lib Python tipo matplotlib)
+22)Simular investimentos 
+23)Mostrar dados gerais da conta: saldo, total reservado, total investido
 24)Sistema de suporte/mensagens com admin
 25)Cadastro e exibição de criptomoedas disponíveis
 26)Compra e venda simulada de criptomoedas
 27)Sistema de notificações internas
-28)Simular criação de cartão virtual (número fictício)
+28)Simular criação de cartão virtual 
 29)Exportar extratos e relatórios em PDF
 30)Sistema de autenticação em duas etapas
